@@ -18,8 +18,4 @@ The data used in this project is provided by The World Bank. It contains both na
 -不同債務指標下各國所欠款項的平均值是多少？
 這個專案裡使用的數據由世界銀行提供，包括了自1970年至2015年間記錄的全球多個國家和地區的債務統計數據。
 
-研究結果 :
--
--
--
 
